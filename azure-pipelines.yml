@@ -27,4 +27,4 @@ steps:
     FailBuildConfiguration: true
     FailBuildChoice: 'conditionset'
     buildfailCritical: true
-    buildfailconditionCritical: '2'
+    buildfailconditionCritical: '0'
